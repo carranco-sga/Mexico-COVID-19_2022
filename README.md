@@ -1,8 +1,12 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2022-01-01T20:08:37-06:00
+Última actualización/Last update: 2022-01-03T14:03:00-06:00
 
 ## Nota importantes / Important notes
+
+2022-01-03: El CTD de los días 2021-12-25 y 2022-01-01 no está disponible.
+
+2022-01-03: The CTD dated 2021-12-25 y 2022-01-01 are not available.
 
 2021-12-18: El número de defunciones reportadas en el CTD y en los datos abiertos vuelve a concordar.
 
