@@ -4,6 +4,10 @@
 
 ## Nota importantes / Important notes
 
+2022-01-05: El número de defunciones reportadas en el CTD es menor al reportado en los datos abiertos en 37 (correspondientes al estado de Morelos).
+
+2022-01-05: The number of deaths reported in the CTD is less to that reported in the open data by 37 (corresponding to Morelos).
+
 2022-01-03: El CTD de los días 2021-12-25 y 2022-01-01 no está disponible.
 
 2022-01-03: The CTD dated 2021-12-25 y 2022-01-01 are not available.
