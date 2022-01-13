@@ -1,5 +1,5 @@
 # Documentos de consulta para el personal de salud
 
-Última actualización/Last update: 2022-01-11T19:15:07-06:00
+Última actualización/Last update: 2022-01-12T19:57:01-06:00
 
  [Fuente](https://coronavirus.gob.mx/personal-de-salud/documentos-de-consulta/)
