@@ -1,2 +1,9 @@
+# Comunicado técnico diario / Daily technical communiqué
+
+[Listado oficial](https://www.gob.mx/salud/documentos/coronavirus-covid19-comunicados-tecnicos-diarios-febrero-2022)
+
+| Fecha               | Link        |
+| ------------------- | ----------  |
 | 2022-02-01 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-293717) |
 | 2022-02-02 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-293742) |
+| 2022-02-03 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-293969) |
