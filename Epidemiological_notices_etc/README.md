@@ -1,6 +1,6 @@
 # Avisos epidemiológicos y otros/Epidemiological notices and others
 
-Última actualización/Last update: 2022-02-09T20:13:06-06:00
+Última actualización/Last update: 2022-02-10T19:25:15-06:00
 
 Archivo (incompleto) de algunos documentos epidemiológicos relacionados con SARS-CoV-2/COVID-19 disponibles en el sitio del Gobierno Federal de México.
 
