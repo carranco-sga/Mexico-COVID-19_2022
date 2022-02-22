@@ -24,3 +24,4 @@
 | 2022-02-18 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-294539) |
 | 2022-02-19 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-294540) |
 | 2022-02-20 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-294542) |
+| 2022-02-21 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-295040) |
