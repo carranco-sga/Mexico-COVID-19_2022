@@ -30,3 +30,4 @@
 | 2022-02-24 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-295043) |
 | 2022-02-25 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-295045) |
 | 2022-02-26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-295046) |
+| 2022-02-27 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-295048) |
