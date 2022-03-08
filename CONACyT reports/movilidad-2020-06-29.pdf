@@ -2,7 +2,7 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-J63Y7T3CZH');</script><link href="/coronavirus/css/chunk-03221d08.7e7f5ffd.css" rel="prefetch"><link href="/coronavirus/css/chunk-6c61db73.fd3c7892.css" rel="prefetch"><link href="/coronavirus/js/chunk-03221d08.360d484f.js" rel="prefetch"><link href="/coronavirus/js/chunk-2d0df7da.52e61b8d.js" rel="prefetch"><link href="/coronavirus/js/chunk-6c61db73.9b9a5e82.js" rel="prefetch"><link href="/coronavirus/css/app.5d05a7b5.css" rel="preload" as="style"><link href="/coronavirus/js/app.f4b361b0.js" rel="preload" as="script"><link href="/coronavirus/js/chunk-vendors.d7e2b085.js" rel="preload" as="script"><link href="/coronavirus/css/app.5d05a7b5.css" rel="stylesheet"></head><body><noscript><style>.noscript {
+      gtag('config', 'G-J63Y7T3CZH');</script><link href="/coronavirus/css/chunk-03221d08.7e7f5ffd.css" rel="prefetch"><link href="/coronavirus/css/chunk-6c61db73.fd3c7892.css" rel="prefetch"><link href="/coronavirus/js/chunk-03221d08.fe1473b7.js" rel="prefetch"><link href="/coronavirus/js/chunk-2d0df7da.91839399.js" rel="prefetch"><link href="/coronavirus/js/chunk-6c61db73.d80c4544.js" rel="prefetch"><link href="/coronavirus/css/app.b76b48d5.css" rel="preload" as="style"><link href="/coronavirus/js/app.212dc6cd.js" rel="preload" as="script"><link href="/coronavirus/js/chunk-vendors.d7e2b085.js" rel="preload" as="script"><link href="/coronavirus/css/app.b76b48d5.css" rel="stylesheet"></head><body><noscript><style>.noscript {
           font-family: 'Montserrat', Helvetica, Arial, sans-serif;
           font-size: 18px;
           font-weight: normal;
@@ -12,4 +12,4 @@
           padding: 0 10vw;
           width: 80%;
           max-width: 700px;
-        }</style><div class="noscript"><h1>Conacyt frente a la Covid-19</h1><p>El capítulo Conacyt frente a la Covid-19 del Ecosistema Nacional Informático de Salud forma parte del Proyecto Nacional de Investigación e Incidencia Covid-19 (Pronaii Covid-19) dentro del Programa Nacional Estratégico de Salud.</p><p>Para visualizar éste sitio necesitas activar JavaScript.</p></div></noscript><div id="app"></div><script src="/coronavirus/js/chunk-vendors.d7e2b085.js"></script><script src="/coronavirus/js/app.f4b361b0.js"></script></body></html>
+        }</style><div class="noscript"><h1>Conacyt frente a la Covid-19</h1><p>El capítulo Conacyt frente a la Covid-19 del Ecosistema Nacional Informático de Salud forma parte del Proyecto Nacional de Investigación e Incidencia Covid-19 (Pronaii Covid-19) dentro del Programa Nacional Estratégico de Salud.</p><p>Para visualizar éste sitio necesitas activar JavaScript.</p></div></noscript><div id="app"></div><script src="/coronavirus/js/chunk-vendors.d7e2b085.js"></script><script src="/coronavirus/js/app.212dc6cd.js"></script></body></html>
