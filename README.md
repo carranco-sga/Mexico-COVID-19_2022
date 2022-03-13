@@ -1,8 +1,12 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2022-03-12T20:16:22-06:00
+Última actualización/Last update: 2022-03-13T00:21:00-06:00
 
 ## Nota importantes / Important notes
+
+2022-03-13: Desde el 2022-03-11, este repositorio ha alcanzado el límite de tamaño de GitHub. Estoy trabajando en formas de continuar actualizándolo.
+
+2022-03-13: From 2022-03-11, this repository reached its limit size in GitHub. I'm working in ways to address this.
 
 2022-01-07: El número de defunciones reportadas en el CTD y en los datos abiertos vuelve a concordar.
 
