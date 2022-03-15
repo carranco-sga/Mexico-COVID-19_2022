@@ -1,6 +1,20 @@
-# Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
+[Link](https://github.com/carranco-sga/Mexico-COVID-19_2022) al nuevo repositorio siendo actualizado.
 
-Última actualización/Last update: 2022-03-13T00:21:00-06:00
+[Link](https://github.com/carranco-sga/Mexico-COVID-19_2022) to the new repository being updated.
+
+
+Debido a limitaciones de espacio, no es posible continuar actualizando el repositorio actual.
+Los datos del año 2022 han sido duplicados en [éste repositorio](https://github.com/carranco-sga/Mexico-COVID-19_2022).
+Se archiva este repositorio.
+
+Due to hosting limitations, it is impossible to keep updating this repository.
+Data from year 2022 has been duplicated in [this repository](https://github.com/carranco-sga/Mexico-COVID-19_2022).
+This repository is being archived.
+
+
+# **[Archivado/Archived]** Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
+
+Última actualización/Last update: 2022-03-14T18:22:00-06:00
 
 ## Nota importantes / Important notes
 
