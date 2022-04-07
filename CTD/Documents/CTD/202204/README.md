@@ -3,3 +3,4 @@
 | 2022-04-03 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-297842) |
 | 2022-04-04 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-298516) |
 | 2022-04-05 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-298598) |
+| 2022-04-06 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-298677) |
