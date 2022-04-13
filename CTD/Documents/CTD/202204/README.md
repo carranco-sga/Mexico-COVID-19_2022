@@ -9,3 +9,4 @@
 | 2022-04-09 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-298916) |
 | 2022-04-10 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-298937) |
 | 2022-04-11 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-299022) |
+| 2022-04-12 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-299113) |
