@@ -1,3 +1,9 @@
+# Comunicado técnico diario / Daily technical communiqué
+
+[Listado oficial](https://www.gob.mx/salud/documentos/coronavirus-covid19-comunicados-tecnicos-diarios-abril-2022)
+
+| Fecha               | Link        |
+| ------------------- | ----------  |
 | 2022-04-01 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-297835) |
 | 2022-04-02 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-297838) |
 | 2022-04-03 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-297842) |
@@ -11,3 +17,4 @@
 | 2022-04-11 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-299022) |
 | 2022-04-12 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-299113) |
 | 2022-04-13 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-299258) |
+| 2022-04-14 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-299258) |
