@@ -1,8 +1,12 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2022-04-14 T 20:54:00-05:00
+Última actualización/Last update: 2022-04-15 T 21:23:00-05:00
 
 ## Nota importantes / Important notes
+
+2022-03-13: Los CTDs de los días 2022-04-14 y 2022-04-15 no están disponibles en la página gob.mx.
+
+2022-03-13: The CTDs for 2022-04-14 and 2022-04-15 are not available in the gob.mx page.
 
 2022-03-14: Se archiva el repositorio ["Mexico-COVID-19"](https://github.com/carranco-sga/Mexico-COVID-19). Se traspasan los datos del 2022 al presente, que se continuará actualizando. El estado inicial del repositorio se encuentra en la rama [old_repo_last_status](https://github.com/carranco-sga/Mexico-COVID-19_2022/tree/old_repo_last_status).
 
