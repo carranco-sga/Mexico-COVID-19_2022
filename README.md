@@ -1,8 +1,14 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2022-04-27T22:59:00-05:00
+Última actualización/Last update: 2022-05-02T20:39:23-05:00
 
 ## Nota importantes / Important notes
+
+2022-05-02: Se publica un nuevo tipo de comunicado técnico de caracter semanal, el Comunicado Técnico Semanal (CTS) que reemplaza a los CTD.
+Se archivan en la carpeta 'CTS'
+
+2022-05-02: The CTDs are replaced by a weekly technical brief, the Weekly Technical Communiqué.
+These are archived in the folder `CTS`
 
 2022-04-27: A partir de ayer, la SSa dejó de publicar CTDs diarios para pasar a actualizaciones semanales los días lunes. [Link](https://www.gob.mx/salud/prensa/a-v-i-s-o-300210).
 Aparentemente ésto también incluye los datos abiertos.
