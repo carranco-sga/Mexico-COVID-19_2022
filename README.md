@@ -1,8 +1,22 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2022-06-13T20:42:14-05:00
+Última actualización/Last update: 2022-06-14T22:31:00-05:00
 
 ## Nota importantes / Important notes
+
+2022-06-14: A partir del 2022-06-07 se vuelve a publicar un CTD diario.
+El CTD del lunes 2022-06-13 parece tener el formato del CTS anterior.
+Se archivarán todos en la carpeta `CTS`.
+Adicionalmente, se vuelven a publicar las bases de datos abiertas de forma diaria.
+Se vuelven a archivar las mismas en el directorio correspondiente.
+Por brevedad, se actualizará la tabla resumen y las series de tiempo parciales sólo los lunes.
+
+2022-06-14: From 2022-06-07 onwards, the CTD is published again daily.
+The CTD of Monday 2022-06-13 seems to have the same format of the prior CTS.
+These will be archived in the `CTS` folder.
+Additionally, the open databases are being published again.
+These will be archived in the respective folder.
+For brevity, the briefing table and the partial time series will be published for Mondays only.
 
 2022-05-02: Se publica un nuevo tipo de comunicado técnico de caracter semanal, el Comunicado Técnico Semanal (CTS) que reemplaza a los CTD.
 Se archivan en la carpeta 'CTS'
