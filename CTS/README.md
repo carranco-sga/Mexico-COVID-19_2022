@@ -15,4 +15,5 @@
 | 2022-06-07 | 22 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-304550) |
 | 2022-06-08 | 22 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-304620) |
 | 2022-06-09 | 22 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-304697) |
+| 2022-06-10 | 22 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-304766) |
 | 2022-06-13 | 23 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-304937) |
