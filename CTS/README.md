@@ -44,3 +44,4 @@
 | 2022-07-06 | 26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-307415) |
 | 2022-07-07 | 26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-307768) |
 | 2022-07-08 | 26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-307831) |
+| 2022-07-09 | 26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-307835) |
