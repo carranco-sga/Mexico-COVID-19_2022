@@ -40,3 +40,4 @@
 | 2022-07-02 | 25 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-306899) |
 | 2022-07-03 | 25 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-306921) |
 | 2022-07-04 | 26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-307060) |
+| 2022-07-05 | 26 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-307242) |
