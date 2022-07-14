@@ -1,5 +1,5 @@
 # Documentos disponibles en coronavirus.gob.mx
 
-Última actualización/Last update: 2022-07-12T21:54:13-05:00
+Última actualización/Last update: 2022-07-13T22:23:45-05:00
 
  [Fuente](https://coronavirus.gob.mx/)
