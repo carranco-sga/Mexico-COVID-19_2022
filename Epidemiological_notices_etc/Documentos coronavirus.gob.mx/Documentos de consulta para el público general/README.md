@@ -1,5 +1,5 @@
 # Documentos de consulta
 
-Última actualización/Last update: 2022-07-16T19:05:01-05:00
+Última actualización/Last update: 2022-07-17T19:05:01-05:00
 
  [Fuente](https://coronavirus.gob.mx/documentos-de-consulta/)
