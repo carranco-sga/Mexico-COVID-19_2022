@@ -1,8 +1,24 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2022-07-22T19:05:01-05:00
+Última actualización/Last update: 2022-07-23T15:23:00-05:00
 
 ## Nota importantes / Important notes
+
+2022-07-23: Se publican en este repositorio las series de tiempo faltantes de 2022-06-03 a la fecha.
+No se publicaron datos abiertos los días 2022-06-01, 2022-06-02, 2022-06-05 y 2022-06-06.
+Por accidente la base de datos y los derivados de 2022-06-04 se reporta también como 2022-06-06 en este repositorio; por completitud se deja como está.
+Por la forma en la que se actualizó el repositorio, pueden haber habido errores en los datos reportados en la tabla resumen antes de esta fecha; deberían estar ya corregidos.
+Los datos abiertos de 2022-06-15 presentan un error de formato: se publican como un archivo '.csv' comprimido dos veces en archivos '.zip'.
+Las series de tiempo de 2022-06-03 hasta 2022-07-10 que no fueron publicadas anteriormente pueden discrepar con los CTD/CTS correspondientes debido a que no se compararon.
+Se vuelve a actualizar el repositorio de forma diaria, pero de forma automatizada.
+
+2022-07-23: The missing time series from 2022-06-03 until today are published.
+There was no open database published on 2022-06-01, 2022-06-02, 2022-06-05 and 2022-06-06.
+Accidentally, the database and data of 2022-06-04 are reported again as 2022-06-06 in this repo; for completeness' sake there are no modifications in the dates.
+Because of the way the repo was updated, there might have been errors in the data reported in the briefing table before this date; they should be now corrected.
+The open database for 2022-06-15 has a format error: they were published as a doubly zipped '.csv' file.
+The time series from 2022-06-03 from 2022-07-10 that had not been published before might have discrepancies with the corresponding CTD/CTS due to them not being compared side by side.
+The repo will be updated daily again, however, in an automated manner.
 
 2022-06-14: A partir del 2022-06-07 se vuelve a publicar un CTD diario.
 El CTD del lunes 2022-06-13 parece tener el formato del CTS anterior.
