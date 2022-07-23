@@ -160,3 +160,4 @@ datos = CSV.read(datos_zip.files[1], header = 1, types = Dict(:FECHA_DEF => Stri
 sort!(datos, [:FECHA_INGRESO, :ENTIDAD_UM, :CLASIFICACION_FINAL, :FECHA_DEF, :TIPO_PACIENTE, :UCI, :INTUBADO])
 
 tabla_resumen(datos, fecha_análisis)
+close(datos_zip)
