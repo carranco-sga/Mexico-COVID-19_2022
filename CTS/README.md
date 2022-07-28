@@ -1,6 +1,6 @@
 # Comunicado técnico semanal/ Weekly technical communiqué
 
-Última actualización/Last update: 2022-07-26T21:34:56-05:00
+Última actualización/Last update: 2022-07-27T21:07:44-05:00
 
 [Listado oficial](https://www.gob.mx/salud/prensa/comunicado-tecnico-semanal-covid-19)
 
@@ -62,3 +62,4 @@
 | 2022-07-24 | 28 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-309088) |
 | 2022-07-25 | 29 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-309090) |
 | 2022-07-26 | 29 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-309091) |
+| 2022-07-27 | 29 | [Link](https://www.gob.mx/salud/prensa/comunicado-tecnico-diario-covid-19-309093) |
